@@ -1,2 +1,1 @@
-# send-me-thanks
-Send me 💰 Thanks
+# Send me 💰 Thanks
