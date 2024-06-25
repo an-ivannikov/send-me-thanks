@@ -1,6 +1,7 @@
 # Send me 💰 Thanks
 
-## Ethereum 
+
+## Ethereum and other EVM networks 
 
 0x7718d23Dda1603a0c15dC752Cee8C99A8fa48Ea2
 
